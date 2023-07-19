@@ -25,7 +25,8 @@ By the end of this lesson, you will be able to:
 
 ### Hands On GPT API
 
+The Jupyter Notebook with empty code cells so you can do Code Along can be found here: **[GPT_API_code_along.ipynb](https://github.com/data-bootcamp-v4/AI/blob/main/GPT_API_code_along.ipynb)**
 
-The Jupyter Notebook you will use through out the Hands On Lesson can be found here: **[GPT_API.ipynb](https://github.com/data-bootcamp-v4/AI/blob/main/GPT_API.ipynb)**
+The complete Jupyter Notebook that will be used through out the Hands On Lesson can be found here: **[GPT_API.ipynb](https://github.com/data-bootcamp-v4/AI/blob/main/GPT_API.ipynb)**
 
 <br />
