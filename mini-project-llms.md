@@ -1,4 +1,4 @@
-# Introduction
+<!-- # Large Language Models Group Activity -->
 
 ## Project Statement
 
